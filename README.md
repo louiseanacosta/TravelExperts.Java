@@ -6,19 +6,20 @@ A Desktop Application to administer data for a travel agency. Data stored on the
 Application must connect to Travel Experts Database in MySQL. Run the sql script included (travelexperts.sql)
 
 ## Take A Peak
+### Overview
 <img src="sample/TravelExperts.gif" width="100%" alt="view"></img>
 
-## Search
+### Search
 <img src="sample/TravelExperts_Search.gif" width="100%" alt="search"></img>
 
-## Update
+### Update
 <img src="sample/TravelExperts_Update.gif" width="100%" alt="update"></img>
 
-## Delete
-<img src="sample/TravelExperts_Delete.gif" width="100" alt="delete"></img>
+### Delete
+<img src="sample/TravelExperts_Delete.gif" width="100%" alt="delete"></img>
 
-## Add
-<img src="sample/TravelExperts_Add.gif" width="100" alt="add"></img>
+### Add
+<img src="sample/TravelExperts_Add.gif" width="100%" alt="add"></img>
 
 ## Built With
 
