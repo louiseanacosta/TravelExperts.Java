@@ -13,7 +13,7 @@
       <root url="jar://$PROJECT_DIR$/lib/scenicView.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/GNAvatarView-1.0-rc.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/GNCalendar-1.0-alpha.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Database Drivers/mysql-connector-java-5.1.17-bin.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/AA - HARVEY/JavaDay6 Examples/Database Drivers/mysql-connector-java-5.1.17-bin.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
