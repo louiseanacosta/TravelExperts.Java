@@ -1,6 +1,6 @@
 # Travel Experts Application
 
-A Desktop Application to administer data for a traval agency. Data stored on the database can be administered using this application where users will be able to view and modify the data.
+A Desktop Application to administer data for a travel agency. Data stored on the database can be administered using this application where users will be able to view and modify the data.
 
 ## Before using
 Application must connect to Travel Experts Database in MySQL. Run the sql script included (travelexperts.sql)
