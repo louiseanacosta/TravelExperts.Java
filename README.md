@@ -2,20 +2,23 @@
 
 A Desktop Application to administer data for a traval agency. Data stored on the database can be administered using this application where users will be able to view and modify the data.
 
+## Before using
+Application must connect to Travel Experts Database in MySQL. Run the sql script included (travelexperts.sql)
+
 ## Take A Peak
-<img src="sample/TravelExperts.gif" width="80%" alt="view"></img>
+<img src="sample/TravelExperts.gif" width="100%" alt="view"></img>
 
 ## Search
-<img src="sample/TravelExperts_Search.gif" width="80%" alt="search"></img>
+<img src="sample/TravelExperts_Search.gif" width="100%" alt="search"></img>
 
 ## Update
-<img src="sample/TravelExperts_Update.gif" width="80%" alt="update"></img>
+<img src="sample/TravelExperts_Update.gif" width="100%" alt="update"></img>
 
 ## Delete
-<img src="sample/TravelExperts_Delete.gif" width="80%" alt="delete"></img>
+<img src="sample/TravelExperts_Delete.gif" width="100" alt="delete"></img>
 
 ## Add
-<img src="sample/TravelExperts_Add.gif" width="80%" alt="add"></img>
+<img src="sample/TravelExperts_Add.gif" width="100" alt="add"></img>
 
 ## Built With
 
