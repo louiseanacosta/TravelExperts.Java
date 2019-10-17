@@ -467,6 +467,8 @@ public class BookingController {
             alert.showAndWait();
             loadBookings();
             clearAllFieldsInEditBooking();
+            // go to Booking List tab
+            tpBookings.getSelectionModel().select(tabBooking);
 
         } else {
             Alert alert = new Alert(Alert.AlertType.INFORMATION, "Failed to delete Boooking", ButtonType.CLOSE);

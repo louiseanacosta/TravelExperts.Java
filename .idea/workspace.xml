@@ -2,127 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf07b666-fef5-4a22-a4bf-5fb202d166df" name="Default Changelist" comment="updated invoice DB and corrected InvoiceDetail object">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group1.Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TravelExperts.Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/READMEGROUP2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/BookingDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/BookingDetailDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/ClassesDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/CustomerDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/CustomerValidation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/DBHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/DataValidation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/FeeDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/InvoiceDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/PackagesDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/Packages_products_suppliersDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/ProductsDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/RegionDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/SuppliersDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/data/TripTypeDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/Section.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/UserDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/factory/AlertCell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/factory/AlertFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/factory/AlertFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/plugin/SectionManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/plugin/UserManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/plugin/ViewManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Alerts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Dialog$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Dialog$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Dialog$ButtonType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Dialog$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Dialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Mask$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Mask$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/global/util/Mask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Booking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/BookingDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Classes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Customers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Fee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Invoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Packages.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Packages_products_suppliers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Products.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Region.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/Suppliers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/model/TripType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/AddModifyBookingDetailController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/BookingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/BookingDetailController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/InvoiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/NewBooking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/add-modify-booking-detail.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/add-modify-booking-detail.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/booking-detail.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/booking-detail.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/booking-list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/booking-list.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/invoice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/bookings/invoice.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/customers/CustomerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/customers/ignorethis.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/dashboard/Dashboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/loader/Loader$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/loader/Loader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/login/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/login/login$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/login/login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/main/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/main/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/main/Popover.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/packages/packagelistController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/profile/Profile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/module/supplier/supplierlistController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/theme/skin/ClearableSkin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/theme/skin/SkinAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Group1.Java/com/gn/theme/skin/ViewerSkin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/BookingDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/BookingDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/BookingDetailDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/BookingDetailDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/ClassesDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/ClassesDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/CustomerDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/CustomerDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/CustomerValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/CustomerValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/DBHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/DataValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/DataValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/FeeDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/FeeDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/InvoiceDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/InvoiceDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/PackagesDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/PackagesDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/Packages_products_suppliersDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/Packages_products_suppliersDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/ProductsDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/ProductsDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/RegionDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/RegionDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/data/TripTypeDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/data/TripTypeDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Classes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Customers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Customers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Packages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Packages_products_suppliers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Packages_products_suppliers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/model/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/model/Region.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/AddModifyBookingDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/AddModifyBookingDetailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/BookingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/BookingDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/BookingDetailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/InvoiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/InvoiceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/NewBooking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/add-modify-booking-detail.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/bookings/add-modify-booking-detail.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/booking-detail.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/bookings/booking-detail.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/booking-list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/bookings/booking-list.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/bookings/invoice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/bookings/invoice.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/customers/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/customers/customer-list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/customers/customer-list.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/customers/ignorethis.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/main/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/main/main.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/packages/package-list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/packages/package-list.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/packages/packagelistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/packagelistController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/supplier/supplier-list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/module/supplier/supplier-list.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gn/module/supplier/supplierlistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/supplierlistController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/Lee-chee.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/Pound4Pound.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gn/controller/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/BookingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gn/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gn/controller/CustomerController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
@@ -155,43 +37,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gn/model/BookingDetail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gn/model/Booking.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1044">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gn/module/main/main.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="720">
               <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TravelExperts.Java.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/gn/controller/CustomerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gn/controller/BookingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1376">
+              <caret line="470" column="62" selection-start-line="470" selection-start-column="62" selection-end-line="470" selection-end-column="62" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -371,10 +256,8 @@
         <option value="$PROJECT_DIR$/src/com/gn/controller/supplierlistController.java" />
         <option value="$PROJECT_DIR$/src/com/gn/controller/InvoiceController.java" />
         <option value="$PROJECT_DIR$/src/com/gn/controller/BookingDetailController.java" />
-        <option value="$PROJECT_DIR$/src/com/gn/controller/CustomerController.java" />
         <option value="$PROJECT_DIR$/src/com/gn/controller/packagelistController.java" />
         <option value="$PROJECT_DIR$/src/com/gn/controller/AddModifyBookingDetailController.java" />
-        <option value="$PROJECT_DIR$/src/com/gn/controller/BookingController.java" />
         <option value="$PROJECT_DIR$/src/com/gn/module/bookings/invoice.fxml" />
         <option value="$PROJECT_DIR$/src/com/gn/module/bookings/add-modify-booking-detail.fxml" />
         <option value="$PROJECT_DIR$/src/com/gn/module/bookings/booking-detail.fxml" />
@@ -402,10 +285,12 @@
         <option value="$PROJECT_DIR$/src/com/gn/model/Classes.java" />
         <option value="$PROJECT_DIR$/src/com/gn/model/Booking.java" />
         <option value="$PROJECT_DIR$/src/com/gn/module/main/main.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gn/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/com/gn/controller/BookingController.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="823" />
     <option name="height" value="1047" />
@@ -416,7 +301,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -435,11 +320,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TravelExperts.Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelExperts.Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gn" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelExperts.Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelExperts.Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gn" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TravelExperts.Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TravelExperts.Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gn" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="bookings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
   </component>
@@ -563,6 +470,7 @@
       <workItem from="1571256474348" duration="59000" />
       <workItem from="1571274122877" duration="7697000" />
       <workItem from="1571281982568" duration="903000" />
+      <workItem from="1571283142973" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="fork test for project">
       <created>1558544262908</created>
@@ -603,7 +511,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188227000" />
+    <option name="totallyTimeSpent" value="189744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -615,7 +523,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <frame x="-16" y="-16" width="4832" height="2632" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -624,11 +532,11 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Learn" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49943054" visible="true" weight="0.1697051" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49943054" visible="true" weight="0.136887" />
       <window_info id="Favorites" order="7" sideWeight="0.50056946" side_tool="true" weight="0.14343163" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972667" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.2192483" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.16768293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997722" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -802,35 +710,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gn/controller/BookingController.java">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4644">
-          <caret line="129" column="50" lean-forward="true" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gn/controller/BookingDetailController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gn/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11520">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1062,6 +947,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gn/module/main/main.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gn/model/Customers.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1110,18 +1003,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gn/module/main/main.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TravelExperts.Java.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gn/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gn/controller/BookingController.java">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="470" column="62" selection-start-line="470" selection-start-column="62" selection-end-line="470" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1177,11 +1085,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Group1.Java</last-edited>
+          <last-edited>TravelExperts.Java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -29,15 +29,12 @@ package com.gn.controller;
 
 public class CustomerController {
 
- //   ObservableList custList = FXCollections.observableArrayList();
-    //ObservableList <Customers> olCustomerList = FXCollections.observableArrayList(custList);
-
     PreparedStatement pst = null;
     ResultSet rs = null;
 
     @FXML private ResourceBundle resources;
     @FXML private URL location;
-   @FXML private TabPane CustomerTabPane;
+    @FXML private TabPane CustomerTabPane;
     @FXML private TableView<Customers> tvCustomers;
     @FXML private TableColumn<Customers, Integer> colCustomerId;
     @FXML private TableColumn<Customers, String> colCustFirstName;
